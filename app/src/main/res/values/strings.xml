@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"> Manedek </string>
+    <string name="bus_btn"> Bus </string>
+    <string name="taxi_btn"> Taxi </string>
+</resources>
